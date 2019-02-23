@@ -150,7 +150,7 @@ public class AnagramDictionary {
                 if(DEFAULT_WORD_LENGTH==MAX_WORD_LENGTH)
                     DEFAULT_WORD_LENGTH=3+random.nextInt(3);
                 if(DEFAULT_WORD_LENGTH<MAX_WORD_LENGTH)
-                    DEFAULT_WORD_LENGTH++;
+                    DEFAULT_WORD_LENGTH+=1;
 
                 return randomWord;
             }
