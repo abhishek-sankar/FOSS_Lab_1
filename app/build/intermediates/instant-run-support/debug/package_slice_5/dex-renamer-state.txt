@@ -1,0 +1,4 @@
+#Sun Feb 18 00:31:35 IST 2018
+base.0=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex

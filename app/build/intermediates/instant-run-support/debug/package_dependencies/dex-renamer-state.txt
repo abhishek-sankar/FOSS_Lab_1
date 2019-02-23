@@ -1,0 +1,16 @@
+#Sun Feb 18 00:31:35 IST 2018
+renamed.4=classes.dex
+renamed.3=classes2.dex
+renamed.2=classes4.dex
+renamed.1=classes5.dex
+base.4=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_412c12422e8c4e1ee33e6f087107caf1669709ed
+renamed.0=classes3.dex
+base.3=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_96fd121d85ae9c449e6592f8f69aa4b2f073fb93
+base.2=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_2f07ab51be91f4d51c2e602b4ceff25786516994
+base.1=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_7ac953d84af8c38faa07803e18ec299de23d645c
+base.0=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f7d59127914663bcbc5d857cb10e06451d47ab91
+file.4=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_412c12422e8c4e1ee33e6f087107caf1669709ed\\classes.dex
+file.3=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_96fd121d85ae9c449e6592f8f69aa4b2f073fb93\\classes.dex
+file.2=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_2f07ab51be91f4d51c2e602b4ceff25786516994\\classes.dex
+file.1=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_7ac953d84af8c38faa07803e18ec299de23d645c\\classes.dex
+file.0=D\:\\Noxious Knifer\\Applied CS\\Anagrams\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f7d59127914663bcbc5d857cb10e06451d47ab91\\classes.dex
